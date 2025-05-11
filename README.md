@@ -1,4 +1,4 @@
-# NLP_project
+
 # AI Resume Analyzer (NLP-based)
 
 This is a simplified NLP-based resume analyzer built using **bert_model** and **Streamlit**.
